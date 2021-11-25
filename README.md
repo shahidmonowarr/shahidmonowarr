@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Shahid Monowar</h1>
-<h3 align="center">A junior MERN stack developer from Bangladesh</h3>
+<h3 align="center">A junior MERN Stack Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahidmonowarr&label=Profile%20views&color=0e75b6&style=flat" alt="shahidmonowarr" /> </p>
 
