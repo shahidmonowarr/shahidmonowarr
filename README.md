@@ -1,16 +1,44 @@
+<div align="center"><img align="center" width="250" src="https://i.ibb.co/02y10MD/profile.png" style={width:50px} alt="" /></div>
 <h1 align="center">Hi 👋, I'm Md. Shahid Monowar</h1>
 <h3 align="center">A junior MERN stack developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahidmonowarr&label=Profile%20views&color=0e75b6&style=flat" alt="shahidmonowarr" /> </p>
+<br>
+
+My portfolio website is here : https://shahidportfolio.netlify.app/
+
+Skills: 
+<br>
+✅HTML
+<br>
+✅CSS
+<br>
+✅JavaScript
+<br>
+✅REACT JS
+<br>
+✅NODE JS
+
+<h3 align="left">Connect with me:</h3>
+<br>
+
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/mdshahidmonowar/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-%23FB730F)](https://www.instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-%231D9FEE)](https://www.linkedin.com/in/shahid-monowar-/)
+
+<br>
 
 - 🔭 I’m currently working on [Bike Store](https://github.com/shahidmonowarr/Bike-store-website-client-side)
 
-- 💬 Ask me about **JavaScript, react**
+- 💬 Ask me about **JavaScript, React, Node.JS**
 
 - 📫 How to reach me **shahidmonowar.cse@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahidmonowarr&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shahidmonowarr)  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahidmonowarr&label=Profile%20views&color=0e75b6&style=flat" alt="shahidmonowarr" /> </p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
