@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [Helping Hand](https://github.com/shahidmonowarr/a-helping-hands)
+- 🔭 I’m currently working on [TECH-SPECTER](https://github.com/shahidmonowarr/a-helping-hands)
 
 - 🌱 I’m currently learning **Redux and Typescript**
 
