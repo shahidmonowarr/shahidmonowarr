@@ -11,7 +11,7 @@ I'm a MERN Stack Developer based in Dhaka, Bangladesh. I strives to build immers
 
 - 🌱 I’m currently learning **Redux and Typescript**
 
-- 👨‍💻 All of my projects are available at [https://shahidportfolio.netlify.app/](https://shahidportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [shahidmonowar.com](https://shahidmonowar.com/)
 
 - 💬 Ask me about **JavaScript, React, Node**
 
