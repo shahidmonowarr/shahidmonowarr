@@ -1,7 +1,8 @@
-<div align="center"><img align="center" width="100%" src="https://i.ibb.co/wdqdFMS/White-Minimalist-Profile-Linked-In-Banner.png" style={width:50px} alt="" /></div>
+<div align="center"><img align="center" height="50%" width="400" src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" alt="" /></div>
 <!-- https://i.ibb.co/02y10MD/profile.png -->
 <h1 align="center">Hi 👋, I'm Shahid Monowar</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
+</br>
 
 ### Software Engineer (MERN)
 
@@ -24,7 +25,7 @@ I strives to build immersive & beautiful web applications using modern technolog
 - 📫 How to reach me **shahidmonowar.cse@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vp6U5XNzyEoZW317hAaOYe6fK4Bhx1lP/view)
-- ⚡ Fun fact **I like Coffee ☕**
+- ⚡ Fun fact **I like [Coffee](https://www.buymeacoffee.com/shahidmonowar) ☕**
 </br> 
 
 ## 🚀 Connect with me
