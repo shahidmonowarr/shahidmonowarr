@@ -1,4 +1,4 @@
-<div align="center"><img align="center" height="50%" width="400" src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" alt="" /></div>
+<div align="center"><img align="center" height="100%" width="100%" src="https://i.ibb.co/rMQXJTV/Yellow-Corporate-Linked-In-Banner.png" alt="" /></div>
 <!-- https://i.ibb.co/02y10MD/profile.png -->
 <h1 align="center">Hi 👋, I'm Shahid Monowar</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
@@ -11,8 +11,7 @@ I strives to build immersive & beautiful web applications using modern technolog
 </br> 
 </br> 
 
-<img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
-
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
 - 🔭 I’m currently working on **University Management Auth Service**
 
